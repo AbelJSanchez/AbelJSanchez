@@ -4,9 +4,9 @@ I’m currently a senior at Oregon State University pursuing a degree in Compute
 
 <h2>💻 Software  Projects</h2>
 
-<b>[NES Emulator Built Using C++](https://github.com/abeljsanchez)</b>
+<b>[NES Emulator Built Using C++](https://github.com/JonathonShea/Build_a_NES_Emulator_and_Run_NES_ROMs-Shafer-Shea-Countryman-Sanchez)</b>
   
-<b>[ETL Pipeline Built Using Python Pandas and MySQL](https://github.com/abeljsanchez)</b>
+<b>[ETL Pipeline Built Using Python Pandas and MySQL](https://github.com/AbelJSanchez/NBA-Analytics)</b>
     
 <h2>📚 Education</h2>
 
