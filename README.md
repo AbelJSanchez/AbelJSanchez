@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Abel!</h1>
 
-<!--
-**AbelJSanchez/AbelJSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About Me</h2>
 
-Here are some ideas to get you started:
+<h2>💻 Software  Projects</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>[NES Emulator Built Using C++](https://github.com/abeljsanchez)</b>
+  
+<b>[ETL Pipeline Built Using Python Pandas and MySQL](https://github.com/abeljsanchez)</b>
+    
+<h2>📚 Education</h2>
+
+B.S., Computer Science at Oregon State University
+
+<h2>Fun Fact</h2>
+
+<h2>📱 Connect with Me</h2>
+
+[<img align="left" alt="AbelSanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/abeljsanchez/
