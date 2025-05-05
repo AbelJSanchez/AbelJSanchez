@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abel! 👋</h1>
 
-I’m currently a senior at Oregon State University pursuing a degree in Computer Science. Upon graduation, I hope to begin a career in the data industry.
+I am currently a senior at Oregon State University working towards my B.S. in Computer Science. While my primary focus has been in cybersecurity, I've recently found a strong interest in the world of data.
 
 <h2>💻 Software  Projects</h2>
 
