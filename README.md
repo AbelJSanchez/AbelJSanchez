@@ -16,7 +16,7 @@ B.S., Computer Science at Oregon State University (December 2025)
 
 - I am a HUGE Pokemon fan
   
-- My favorite game to play is Stardew Valley
+- My favorite game is currently Stardew Valley
   
 - However, my favorite game of all time is Gears of War 
   
