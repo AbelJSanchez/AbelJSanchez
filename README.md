@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abel! 👋</h1>
 
-I am a senior at Oregon State University pursuing a B.S. in Computer Science with my primary focus in Cybersecurity. Recently, I’ve developed a strong interest in the world of data and its potential to drive improved decision-making and problem-solving.
+I am a senior at Oregon State University pursuing a B.S. in Computer Science with a primary focus in Cybersecurity. Recently, I’ve developed a strong interest in the world of data and its potential to drive improved decision-making and problem-solving.
 
 <h2>💻 Software  Projects</h2>
 
