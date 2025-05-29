@@ -4,13 +4,11 @@ I am a senior at Oregon State University pursuing a B.S. in Computer Science wit
 
 <h2>💻 Software  Projects</h2>
 
-<b>[NES Emulator Built Using C++](https://github.com/JonathonShea/Build_a_NES_Emulator_and_Run_NES_ROMs-Shafer-Shea-Countryman-Sanchez)</b>
-  
 <b>[ETL Pipeline Built Using Python Pandas and MySQL](https://github.com/AbelJSanchez/NBA-Analytics)</b>
     
 <h2>📚 Education</h2>
 
-B.S., Computer Science at Oregon State University (December 2025)
+B.S., Computer Science at Oregon State University
 
 <h2>⚡ Fun Facts</h2>
 
