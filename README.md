@@ -5,6 +5,7 @@ I am a senior at Oregon State University pursuing a B.S. in Computer Science wit
 <h2>💻 Software  Projects</h2>
 
 <b>[ETL Pipeline Built Using Python Pandas and MySQL](https://github.com/AbelJSanchez/NBA-Analytics)</b>
+
 <b>[API Deployed to Google Cloude Using Python, Flask, and Docker](https://github.com/AbelJSanchez/TarpaulinAPI)</b>
     
 <h2>📚 Education</h2>
