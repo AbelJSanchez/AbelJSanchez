@@ -10,7 +10,7 @@ I am a senior at Oregon State University pursuing a B.S. in Computer Science wit
     
 <h2>📚 Education</h2>
 
-B.S., Computer Science at Oregon State University
+B.S., Computer Science - Oregon State University
 
 <h2>⚡ Fun Facts</h2>
 
